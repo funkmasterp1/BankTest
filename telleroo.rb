@@ -6,7 +6,7 @@ account2 = [1011, 124, 40]
 
 
 puts 'Welcome to Telleroo'
-puts 'Im Bob, your bank teller.'
+puts 'Im Paul, your bank teller.'
 
 loop do
 	
